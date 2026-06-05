@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e163e5b51f7a524884663437e86f043, type: 3}
+  m_Name: OmuzAdduksiyonu
+  m_EditorClassIdentifier: Assembly-CSharp::Saglik360.Data.ExerciseDefinition
+  ExerciseName: Omuz Adduksiyonu
+  Description: "A\xE7\u0131k kolu g\xF6vdeye do\u011Fru kontroll\xFC kapat\u0131n."
+  ThumbnailSprite: {fileID: 0}
+  TargetBodyPart: 0
+  Difficulty: 0
+  StartAngleDeg: 90
+  TargetAngleDeg: 10
+  ToleranceDeg: 5
+  TargetReps: 10
+  TargetSets: 3
+  RestBetweenRepsSec: 1.5
+  RestBetweenSetsSec: 30
+  ReferenceAnimation: {fileID: -4791504522942941401, guid: 5b28227cdc85c0c479190b68804c0bca, type: 3}
+  AnimationSpeed: 1
+  BasePointsPerRep: 10
+  CompletionBonus: 50
+  Instructions: "Kolunuzu yana a\xE7\u0131k ba\u015Flat\u0131n. Yava\u015F\xE7a g\xF6vdeye
+    do\u011Fru kapat\u0131n, dirsek b\xFCk\xFClmeden."
+  SafetyNote: "Hareketi zorlamay\u0131n."

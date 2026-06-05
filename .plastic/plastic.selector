@@ -1,0 +1,4 @@
+repository "Saglik360_v1/Saglik360_v1@18968342532293@cloud"
+  path "/"
+    br "/main"
+    co "/main"

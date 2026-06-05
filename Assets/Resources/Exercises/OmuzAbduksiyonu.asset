@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e163e5b51f7a524884663437e86f043, type: 3}
+  m_Name: OmuzAbduksiyonu
+  m_EditorClassIdentifier: Assembly-CSharp::Saglik360.Data.ExerciseDefinition
+  ExerciseName: Omuz Abduksiyonu
+  Description: "Kolu yana do\u011Fru kald\u0131r\u0131n."
+  ThumbnailSprite: {fileID: 0}
+  TargetBodyPart: 0
+  Difficulty: 0
+  StartAngleDeg: 0
+  TargetAngleDeg: 180
+  ToleranceDeg: 5
+  TargetReps: 10
+  TargetSets: 3
+  RestBetweenRepsSec: 1.5
+  RestBetweenSetsSec: 30
+  ReferenceAnimation: {fileID: -4791504522942941401, guid: 881bde136b1f56846800acf216fafcbb, type: 3}
+  AnimationSpeed: 1
+  BasePointsPerRep: 10
+  CompletionBonus: 50
+  Instructions: "Kolu yava\u015F\xE7a yana a\xE7\u0131n. Ba\u015F parmak yukar\u0131ya
+    baks\u0131n. Hedef a\xE7\u0131ya ula\u015F\u0131nca indirin."
+  SafetyNote: "Omuz \xFCzerinden zorlamay\u0131n; a\u011Fr\u0131da durun."

@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e163e5b51f7a524884663437e86f043, type: 3}
+  m_Name: YumrukYapma
+  m_EditorClassIdentifier: Assembly-CSharp::Saglik360.Data.ExerciseDefinition
+  ExerciseName: Yumruk Yapma
+  Description: "Eli yava\u015F\xE7a yumruk yap\u0131n ve a\xE7\u0131n."
+  ThumbnailSprite: {fileID: 0}
+  TargetBodyPart: 3
+  Difficulty: 0
+  StartAngleDeg: 0
+  TargetAngleDeg: 100
+  ToleranceDeg: 8
+  TargetReps: 12
+  TargetSets: 3
+  RestBetweenRepsSec: 1
+  RestBetweenSetsSec: 25
+  ReferenceAnimation: {fileID: -4572650651892053679, guid: 63334145bb705004e8b726a424bdceaa, type: 3}
+  AnimationSpeed: 1
+  BasePointsPerRep: 8
+  CompletionBonus: 45
+  Instructions: "Ellerinizi a\xE7\u0131k ba\u015Flat\u0131n. T\xFCm parmaklar\u0131
+    avu\xE7 i\xE7ine do\u011Fru yava\u015F\xE7a kapat\u0131n, 2 saniye tutun, a\xE7\u0131n."
+  SafetyNote: "Tendon yaralanmas\u0131nda tam kapama yapmay\u0131n."

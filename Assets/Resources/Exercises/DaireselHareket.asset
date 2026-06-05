@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e163e5b51f7a524884663437e86f043, type: 3}
+  m_Name: DaireselHareket
+  m_EditorClassIdentifier: Assembly-CSharp::Saglik360.Data.ExerciseDefinition
+  ExerciseName: Dairesel Hareket
+  Description: "Kolu dairesel olarak d\xF6nd\xFCr\xFCn (sirkumd\xFCksiyon)."
+  ThumbnailSprite: {fileID: 0}
+  TargetBodyPart: 0
+  Difficulty: 1
+  StartAngleDeg: 0
+  TargetAngleDeg: 360
+  ToleranceDeg: 15
+  TargetReps: 8
+  TargetSets: 3
+  RestBetweenRepsSec: 2
+  RestBetweenSetsSec: 40
+  ReferenceAnimation: {fileID: -4791504522942941401, guid: 4b7b08d99241de64aa9217000e6332aa, type: 3}
+  AnimationSpeed: 1
+  BasePointsPerRep: 15
+  CompletionBonus: 60
+  Instructions: "Kolunuzu b\xFCy\xFCk daireler \xE7izerek d\xF6nd\xFCr\xFCn. \u0130lk
+    4 tekrar saat y\xF6n\xFCnde, sonraki 4 ters y\xF6nde."
+  SafetyNote: "Ba\u015Flang\u0131\xE7ta k\xFC\xE7\xFCk daireler yap\u0131n, kademeli
+    olarak b\xFCy\xFCt\xFCn."
